@@ -28,7 +28,7 @@ function App() {
 
       <Container maxWidth="sm" sx={{ mt: 4, mb: 4, flexGrow: 1 }}>
         <Typography variant="h4" component="h1" gutterBottom align="center">
-          Hello, I'm [Your Name]
+          Hello, I'm Alex from CC-54
         </Typography>
 
         <Card sx={{ display: "flex", flexDirection: "column", alignItems: "center" }}>
@@ -46,7 +46,7 @@ function App() {
           />
           <CardContent sx={{ textAlign: "center" }}>
             <Typography variant="h6" gutterBottom>
-              [Your Name]
+              Alex
             </Typography>
             <Typography variant="body1" color="text.secondary" paragraph>
               I am a passionate developer focused on creating innovative solutions. I specialize in
